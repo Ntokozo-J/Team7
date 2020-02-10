@@ -1,0 +1,1 @@
+This is a function that takes a list of datetime strings then converts it into a list of strings with only the date.
