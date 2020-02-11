@@ -1,0 +1,1 @@
+This is a function that takes in a list of integers and returns a dictionary of the mean, median, variance, standard deviation, min and max. This function also retuns the values rounded to the second decimal.
